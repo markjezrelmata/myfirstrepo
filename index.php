@@ -7,6 +7,6 @@
 </head>
 <body>
       <p>Welcome to my page Mark Jezrel Mata</p>
-<body>
+</body>
 </html>
       
